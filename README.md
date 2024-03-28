@@ -5,6 +5,6 @@ Hi, There!
 Class:
 -City
 Attributes:
--Name (string)
--Country (string)
--Population (number)
+-name (string)
+-country (string)
+-population (number)

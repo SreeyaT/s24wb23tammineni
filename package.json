@@ -19,5 +19,6 @@
     "Lab"
   ],
   "author": "Sai Sreeya Tammineni",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {}
 }
